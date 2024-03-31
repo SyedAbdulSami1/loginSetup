@@ -1,4 +1,4 @@
-#! /usr/bin/env node;
+#! /usr/bin/env node
 import inquirer from "inquirer"
 console.log(`Note: This is Just for testing Login Setup`);
 console.log(`Email: abc@gmail.com and Password: 1234`);
